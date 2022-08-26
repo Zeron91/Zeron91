@@ -18,14 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=Welcome,+It+Is+Me+Aryan+In+Redhackers"
 
-            alt="Typing SVG"
-
-        />
-
-    </a>
-
-</p>
-
+          
 <img src="https://github.com/MRVIVEK-CODER/Decompiler/blob/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif" alt="" border="0" />
 
 ![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/md7Oqrf.gif)
@@ -103,9 +96,7 @@ You can click the Preview link to take a look at your changes.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryan-mfc&show_icons=true&locale=en" alt="aryan-mfc" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-mfc&" alt="aryan-mfc" /></p>
-
-**Aryan-Mfc/Aryan-Mfc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-mfc&" alt="aryan-mfc" /></p>.
 
 Here are some ideas to get you started:
 

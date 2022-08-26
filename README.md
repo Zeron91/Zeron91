@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
 
-    <a href="https://github.com/Aryan-Mfc">
+    <a href="https://github.com/Zeron91">
 
         <img
 
@@ -30,19 +30,11 @@ src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=Welcome,+I
 
 ![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/md7Oqrf.gif)
 
-- 👋 Hi, I’m @Aryan-mfc
+- 👋 Hi, I’m Lukman XD
 
  ### NOTES
 
-- 🌞  **EDUCATION**
-
-- 🌞  **LEARNING**
-
-- 🌞  **FOCUSE**
-
-- 🌞  **IMPORTANCE**
-
-<a href="https://github.com/Aryan-Mfc"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=Aryan-Mfc&theme=monokai"></a>
+<a href="https://github.com/Zeron91"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=Aryan-Mfc&theme=monokai"></a>
 
 ### Languages
 
@@ -62,13 +54,13 @@ Some of the languages I use in order of preference.
 
 - **php**
 
-<p align="center"><a href="https://github.com/Aryan-Mfc">
+<p align="center"><a href="https://github.com/Zeron91">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aryan-Mfc&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
 
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/Aryan-Mfc"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Mfc&layout=compact&theme=react&hide_border=true" />
+<a href="https://github.com/Zeron91"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Mfc&layout=compact&theme=react&hide_border=true" />
 
 </a></p>
 
@@ -92,7 +84,16 @@ Some of the languages I use in order of preference.
 
  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
 
- <img src="https://profile-counter.glitch.me/Aryan-Mfc/count.svg" />
+ <img src="- 👋 Hi, I’m @DeeZhack
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+DeeZhack/DeeZhack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->" />
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -128,7 +129,7 @@ Here are some ideas to get you started:
 
 <!---
 
-Aryan-mfc/Aryan-mfc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://github.com/Zeron91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 You can click the Preview link to take a look at your changes.
 

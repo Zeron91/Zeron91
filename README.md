@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zeron91
+yuuk - 👋 Hi, I’m @Zeron91
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -13,9 +13,6 @@
         <img
 <img src="https://github.com/MRVIVEK-CODER/Decompiler/blob/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif" alt="" border="0" />
 
-![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/md7Oqrf.gif)
-
-<p align="center"><a href="https://github.com/Zeron91">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lukman-XD&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
 
